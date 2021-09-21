@@ -19,7 +19,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)&nbsp;
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
