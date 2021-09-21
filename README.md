@@ -25,4 +25,5 @@
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 
-[![Highlight Translator](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=25&hide_border=true)](https://github.com/Coolshanlan/HighlightTranslator)
+[![Highlight Translator](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
+[![LogiPose](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=LogiPose&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
