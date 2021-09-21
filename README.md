@@ -6,7 +6,7 @@
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=github-readme-stats)](https://github.com/Coolshanlan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15)](https://github.com/Coolshanlan/HighlightTranslator)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&border_radius=0&icon_color=0aa&bg_color=000&text_color=ccc&title_color=FCE928&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true)
