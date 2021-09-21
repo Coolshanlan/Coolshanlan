@@ -1,9 +1,9 @@
 ![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=nord_dark&hide_border=true)
 
 ![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0D1120&text_color=ccc&include_all_commits=true&border_radius=15)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coolshanlan&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coolshanlan&theme=nord_dark&hide_border=true)
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 
