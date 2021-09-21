@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=Java&logoColor=FFA518)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-0d1117?style=flat-square&logo=Pytorch&logoColor=FFA518)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
