@@ -2,7 +2,8 @@
 ![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=vue&border_radius=15&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&&theme=vue&hide=HTML,CSS&bg_color=444&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&text_color=ccc&border_color=379A6E)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&theme=vue&hide=HTML,CSS&bg_color=444&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&text_color=ccc&border_color=379A6E)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coolshanlan&theme=vue&hide=HTML,CSS&bg_color=444&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&text_color=ccc&border_color=379A6E)
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 
