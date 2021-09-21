@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
 <!--
 **Coolshanlan/Coolshanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
