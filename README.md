@@ -2,7 +2,7 @@
 ![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=vue&border_radius=15&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&&theme=vue&layout=compact&hide=HTML,CSS&bg_color=000&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&&theme=vue&layout=compact&hide=HTML,CSS&bg_color=000&show_icons=true&count_private=true&include_all_commits=true&langs_count=8&border_color=rgb(55,154,110))
 
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 
