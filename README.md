@@ -1,13 +1,7 @@
 ![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
 
-![Github Flow](https://img.shields.io/badge/Github%20Flow-181717?logo=Github&logoColor=white&style=for-the-badge)
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:coolshanlan@gmail.com)
 
-## &#128202; Git Stats
-![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark)
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)&nbsp;
@@ -22,8 +16,14 @@
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat&logo=pandas)&nbsp;
+## &#128202; Git Stats
+![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark)
+
 <!--
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 [![Highlight Translator](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
