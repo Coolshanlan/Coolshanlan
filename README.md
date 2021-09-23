@@ -26,6 +26,8 @@
 ![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true)
 
+![](https://github-profile-trophy.vercel.app/?username=Coolshanlan&theme=dracula)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark)
 
 <!--
