@@ -1,8 +1,8 @@
 ![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
-<!--
+
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:coolshanlan@gmail.com)
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
--->
+
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
