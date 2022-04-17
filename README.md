@@ -1,7 +1,8 @@
 ![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:coolshanlan@gmail.com)
-![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F&label=Visitors&countColor=%23379a6d)
+<!---![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))--->
 
 ## 🛠 &nbsp;Tech Stack
 
