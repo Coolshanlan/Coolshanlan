@@ -30,7 +30,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Coolshanlan&no-bg=true&theme=darkhub&column=7)
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark)
-
+<!--
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/discussion)
+-->
 <!--
 ![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))
 [![Highlight Translator](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
