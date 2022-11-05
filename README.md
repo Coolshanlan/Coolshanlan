@@ -27,10 +27,14 @@
 ## &#128202; Git Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=30" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+</a>
+
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark">
+  <img align="left" width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark" />
 </a>
 
 <!--
@@ -39,9 +43,9 @@
 -->
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=Coolshanlan&no-bg=true&theme=darkhub&column=7)
--->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coolshanlan&theme=github_dark)
-<!--
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/joey0201/notebook)
