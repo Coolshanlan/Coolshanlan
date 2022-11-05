@@ -25,8 +25,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#128202; Git Stats
-![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true)
+
+<a href="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+</a>
+
+<!--
+![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true)
+-->
 <!--
 ![](https://github-profile-trophy.vercel.app/?username=Coolshanlan&no-bg=true&theme=darkhub&column=7)
 -->
