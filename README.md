@@ -4,9 +4,11 @@
 [![My Kaggke](https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/joey0201)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F)
 <!---![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))--->
-
+<!--
 ## 🛠 &nbsp;Tech Stack
-
+-->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1>
+  
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
 ![C sharp](https://img.shields.io/badge/-C%20Sharp-0d1117?style=flat-square&logo=csharp&logoColor=1D9924)&nbsp;
 ![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
@@ -23,9 +25,10 @@
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<!--
 ## &#128202; Git Stats
-
+-->
+<h2 ><img src = "https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
 <a href="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true&line_height=32" />
 </a>
