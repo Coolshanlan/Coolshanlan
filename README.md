@@ -59,3 +59,8 @@
 [![Highlight Translator](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=HighlightTranslator&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
 [![LogiPose](https://github-readme-stats.vercel.app/api/pin/?username=Coolshanlan&repo=LogiPose&theme=vue&show_icons=true&bg_color=000&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true,border_color=2e343b)](https://github.com/Coolshanlan/HighlightTranslator)
 -->
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END  -->
+![](https://github.com/Coolshanlan/Coolshanlan/blob/output/github-contribution-grid-snake.svg)
