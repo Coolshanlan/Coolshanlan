@@ -2,7 +2,7 @@ name: Latest blog post workflow and snake generated
 
 on:
   schedule:
-      # every 12 hours
+      # every Monday
     - cron: '0 0 * * 1'
 
 # This command allows us to run the Action automatically from the Actions tab.
