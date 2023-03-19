@@ -22,6 +22,24 @@
 ## 🛠 &nbsp;Tech Stack
 -->
 
+
+<!--
+## &#128202; Git Stats
+-->
+
+<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
+<div align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true"/>
+</a>
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
+  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+</a>
+</div>
+
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
 
 <div align="center">
@@ -58,24 +76,6 @@
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg">
   
  </div 
-<!--
-## &#128202; Git Stats
--->
-
-<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
-<div align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true"/>
-</a>
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolshanlan&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
-</a>
-</div>
-
-
-
 
 <!--
 ![Coolshanlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coolshanlan&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true)
