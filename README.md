@@ -101,12 +101,13 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END  -->
- <img width=100% src="https://github.com/Coolshanlan/Coolshanlan/blob/output/github-contribution-grid-snake.svg"/>
-  
   
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
+  
+   <img width=100% src="https://github.com/Coolshanlan/Coolshanlan/blob/output/github-contribution-grid-snake.svg"/>
+  
 <!--
 ![](https://github.com/Coolshanlan/Coolshanlan/blob/output/github-contribution-grid-snake.svg)
 
