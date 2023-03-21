@@ -11,11 +11,16 @@
 ![](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi%20there,+I%27m+Coolshan;I%27m+an+AI/ML+enthusiast;Instrested+in+medical+and+data+science;Be+Welcome!+And+check+out+my+work+below)
 <div align="center">
  -->
+ <a href="mailto:coolshanlan@gmail.com"><img height="30" width="13%" src="https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
+ <a href="https://www.linkedin.com/in/huang-yu-chen-02b4101b5/"><img height="30" width="16%" src="https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+ <a href="https://www.kaggle.com/joey0201"><img height="30" width="13%" src="https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge"></a>
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F"><img height="30" width="20%" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F&label=Visitors&countColor=%23379a6d"></a>
+ <!---
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:coolshanlan@gmail.com)
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/huang-yu-chen-02b4101b5/)
 [![My Kaggke](https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/joey0201)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCoolshanlan%2FCoolshanlan%2F)
-  
+  -->
  </div>
 <!---![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Coolshanlan&countColor=rgb(55,154,110))--->
 <!--
